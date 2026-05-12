@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+
+# Large videos
+*.mp4
+
+# System files
+Thumbs.db
+.DS_Store
